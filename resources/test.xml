@@ -1,0 +1,7 @@
+<character name="Paul">
+    <!-- These are timings for character "Paul" -->
+    <timings>
+        <buttonsequence>ABC</buttonsequence>
+        <seconds>3</seconds>
+    </timings>
+</character>

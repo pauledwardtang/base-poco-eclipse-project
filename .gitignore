@@ -1,1 +1,8 @@
+.gitignore~
+Debug/*
+Release/*
 *.o
+*.so
+*.so.*
+core
+*main.d
